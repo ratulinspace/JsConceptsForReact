@@ -1,0 +1,40 @@
+/*------------------------
+	Fundamentals:
+------------------------*/
+1.1 variable (let, const) three types variable
+1.2 condition (<. >, ===, !==. <=, >=) && ||, if-else if-else
+1.3 array: declare, length, index, push, pop, indexOf, includes
+1.4 for loop, while
+1.5 function return parameter
+1.6 Object property, including array, object
+/*------------------------
+	ES6:
+------------------------*/
+01. template string ${}
+02. spread (...) 
+2.1 copy an array then add a new element to an array 
+2.1 use filter to remove an element from an array
+03. Arrow function
+3.1 no parameter ()
+3.2 single parameter 
+3.3 multiple parameters ()
+3.4 multi line 
+04. destructuring : object destructuring array destructuring 
+05. object declaration shorthand
+06. function parameter default value
+07. Optional chaining (?.)
+/*------------------------
+	Browser API:
+------------------------*/
+01. local storage session stoage
+02. location API
+03. History API
+04. fetch
+/*------------------------
+	Others:
+------------------------*/
+1. array: map, forEach, filter, find
+2. ternary operator
+3. logical and logical or && ||
+4. JOSN (stringify, parse)
+5. +,
